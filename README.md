@@ -1,4 +1,4 @@
-![Danny](https://kokostudios.nekoweb.org/images/github/danny2.png)
+![Danny](https://files.catbox.moe/9381cd.png)
 --
 Danny (Short for Danny is not an acronym) is a rudimentary text editor that features markdown syntax, word wrapping, time elapsed, and pineapple.
 
